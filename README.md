@@ -1,4 +1,4 @@
-# credpal
+# Real estate
 
 A new Flutter project.
 
