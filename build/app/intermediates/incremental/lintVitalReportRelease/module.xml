@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/blinkersnigeriagmail.com/development/projects/realestate/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.1.0"
+    buildFolder="/Users/blinkersnigeriagmail.com/development/projects/realestate/build/app"
+    bootClassPath="/Users/blinkersnigeriagmail.com/Library/Android/sdk/platforms/android-34/android.jar:/Users/blinkersnigeriagmail.com/Library/Android/sdk/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

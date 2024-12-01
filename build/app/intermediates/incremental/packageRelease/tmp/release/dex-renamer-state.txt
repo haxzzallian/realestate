@@ -1,0 +1,4 @@
+#Thu Nov 28 12:33:34 WAT 2024
+base.0=/Users/blinkersnigeriagmail.com/development/projects/realestate/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
